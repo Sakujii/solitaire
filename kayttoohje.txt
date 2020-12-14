@@ -1,0 +1,9 @@
+Pasianssi
+
+Pelin tavoite:
+Kasaa neljään pinoon yläoikealta katsottuna jokaisen maan kortit erilliseen pinoon. Ensimmäisen kortin on oltava 1, seuraavan 2 ja niin edelleen. Kun kaikissa pinoissa on päällimmäisenä kortti 13, olet voittanut pelin.
+
+Pelin säännöt:
+Ylärivin neljälle paikalle saa laittaa vain yhden kortin kerrallaan. Alarivin seitsemälle paikalle saa pinota kortteja ainoastaan niin, että pinossa on vuoron perään punainen ja musta kortti, ja alempana on yhtä isompi kortti kuin mitä päälle laitetaan. Näitä pinoja saa siirrellä useampi kortti kerrallaan ottamalla kiinni jostain pinon keskeltä. Jos alarivin paikka on tyhjä, siihen saa laittaa ainoastaan arvoltaan suurimman kortin joka on tässä pelissä 13. 
+
+Vasemmalla ylhäällä on pino, josta saa ottaa kortteja vapaasti ja laittaa paikkoihin johon ne sopivat. Pinoa ei kannata kuitenkaan käydä läpi liian kovaa kyytiä, sillä jos klikkaat pakan läpi 5 kertaa, häviät pelin.
